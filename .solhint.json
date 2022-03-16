@@ -1,0 +1,16 @@
+{
+  "extends": "solhint:default",
+  "rules": {
+    "indent": "off",
+    "not-rely-on-time": "off",
+    "no-inline-assembly": "off",
+    "avoid-low-level-calls": "off",
+    "avoid-call-value": "off",
+    "no-complex-fallback": "off",
+    "payable-fallback": "off",
+    "avoid-tx-origin": "off",
+    "no-empty-blocks": "off",
+    "function-max-lines": 70,
+    "var-name-mixedcase": "off"
+  }
+}
